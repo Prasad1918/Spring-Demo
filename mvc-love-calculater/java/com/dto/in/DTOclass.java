@@ -5,8 +5,10 @@ public class DTOclass {
 	
 	public String UserName="mrt Prasad";
 	public String CrushName;
-	
-	
+	public String s1="Relangi"
+	public void name() {
+		
+	}
 	
 	public DTOclass(String UserName, String CrushName) {
 		 super();
